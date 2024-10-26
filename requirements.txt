@@ -1,0 +1,10 @@
+torch==1.13.1
+torchdata==0.5.1
+transformers==4.27.2
+evaluate==0.4.0
+peft==0.3.0
+trl @ git+https://github.com/lvwerra/trl.git@25fa1bd
+datasets==2.17.0
+numpy
+pandas
+tqdm
